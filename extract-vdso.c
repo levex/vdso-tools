@@ -5,7 +5,7 @@
  * License: MIT License
  *
  * Compile:
- *   $ gcc extract-vdso.c -o extract-vdsoA
+ *   $ gcc extract-vdso.c -o extract-vdso
  *
  * Usage:
  *   $ ./extract-vdso > vdso-sample.so
